@@ -24,7 +24,7 @@ class Solution {
         stack.push(0);
         lb[0] = -1;
 
-        for(int i = 0; i < heights.length ; i++){
+        for(int i = 1; i < heights.length ; i++){
             while(stack.size() > 0 && heights[i] <= heights[stack.peek()]){
                 stack.pop();
             }
