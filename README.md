@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Divy-unx/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/Divy-unx/LeetCode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Divy-unx/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Stack
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Divy-unx/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/Divy-unx/LeetCode/tree/master/0242-valid-anagram) |
 | [0556-next-greater-element-iii](https://github.com/Divy-unx/LeetCode/tree/master/0556-next-greater-element-iii) |
 ## Sliding Window
 |  |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Divy-unx/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Divy-unx/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
