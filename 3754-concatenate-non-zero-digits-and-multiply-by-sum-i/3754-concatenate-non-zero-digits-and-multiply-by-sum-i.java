@@ -1,8 +1,9 @@
 class Solution {
     public long sumAndMultiply(int n) {
-        if(n <= 0){
+          if(n == 0){
             return 0;
         }
+        
         StringBuilder sb = new StringBuilder();
         String str = String.valueOf(Math.abs(n));
         int sum = 0;
@@ -13,6 +14,7 @@ class Solution {
                 sum += (ch - '0');
             }
         }
+      
         long val = Long.parseLong(sb.toString());
         return val * sum;
     }
