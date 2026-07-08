@@ -15,10 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Divy-unx/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Divy-unx/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Divy-unx/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2923-find-champion-i](https://github.com/Divy-unx/LeetCode/tree/master/2923-find-champion-i) |
 ## Matrix
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Divy-unx/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [2923-find-champion-i](https://github.com/Divy-unx/LeetCode/tree/master/2923-find-champion-i) |
 ## Simulation
 |  |
 | ------- |
