@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Divy-unx/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Divy-unx/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Divy-unx/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Divy-unx/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Divy-unx/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Monotonic Stack
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Divy-unx/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Divy-unx/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Divy-unx/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Divy-unx/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Math
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Divy-unx/LeetCode/tree/master/0389-find-the-difference) |
 | [0556-next-greater-element-iii](https://github.com/Divy-unx/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0942-di-string-match](https://github.com/Divy-unx/LeetCode/tree/master/0942-di-string-match) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Divy-unx/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Divy-unx/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Sliding Window
 |  |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0942-di-string-match](https://github.com/Divy-unx/LeetCode/tree/master/0942-di-string-match) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Divy-unx/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Divy-unx/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Recursion
 |  |
