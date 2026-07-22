@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Divy-unx/LeetCode/tree/master/0001-two-sum) |
 | [0059-spiral-matrix-ii](https://github.com/Divy-unx/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Divy-unx/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/Divy-unx/LeetCode/tree/master/0136-single-number) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Divy-unx/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Divy-unx/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/Divy-unx/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Divy-unx/LeetCode/tree/master/0349-intersection-of-two-arrays) |
