@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Divy-unx/LeetCode/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Divy-unx/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/Divy-unx/LeetCode/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/Divy-unx/LeetCode/tree/master/0224-basic-calculator) |
