@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Divy-unx/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Divy-unx/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Divy-unx/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Divy-unx/LeetCode/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 ## Stack
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Divy-unx/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Divy-unx/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Divy-unx/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Divy-unx/LeetCode/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Divy-unx/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Divy-unx/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Divy-unx/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Divy-unx/LeetCode/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 ## Prefix Sum
 |  |
 | ------- |
