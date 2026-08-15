@@ -20,11 +20,9 @@ class Solution {
             rev = rev * 10 + digit;
             num = num / 10;
         }
-        int min = n;
-        int max = rev;
-
-        min = Math.min(min, rev);
-        max = Math.max(max , n);
+         
+        int min = Math.min(n, rev);
+        int max = Math.max(n, rev);
 
         for(int i = min; i <= max; i++){
             if(IsPrime(i)){
