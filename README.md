@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/Divy-unx/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Divy-unx/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Divy-unx/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Divy-unx/LeetCode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Two Pointers
 |  |
 | ------- |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Divy-unx/LeetCode/tree/master/0204-count-primes) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Divy-unx/LeetCode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Backtracking
 |  |
 | ------- |
