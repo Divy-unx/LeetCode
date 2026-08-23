@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Divy-unx/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0556-next-greater-element-iii](https://github.com/Divy-unx/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Divy-unx/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1927-sum-game](https://github.com/Divy-unx/LeetCode/tree/master/1927-sum-game) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Divy-unx/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Divy-unx/LeetCode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Two Pointers
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/Divy-unx/LeetCode/tree/master/0942-di-string-match) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Divy-unx/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Divy-unx/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1927-sum-game](https://github.com/Divy-unx/LeetCode/tree/master/1927-sum-game) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Divy-unx/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Divy-unx/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Divy-unx/LeetCode/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0942-di-string-match](https://github.com/Divy-unx/LeetCode/tree/master/0942-di-string-match) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Divy-unx/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1927-sum-game](https://github.com/Divy-unx/LeetCode/tree/master/1927-sum-game) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Divy-unx/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Recursion
 |  |
@@ -257,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Divy-unx/LeetCode/tree/master/0148-sort-list) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Divy-unx/LeetCode/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
