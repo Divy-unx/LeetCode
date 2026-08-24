@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Divy-unx/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Divy-unx/LeetCode/tree/master/0011-container-with-most-water) |
 | [0046-permutations](https://github.com/Divy-unx/LeetCode/tree/master/0046-permutations) |
 | [0059-spiral-matrix-ii](https://github.com/Divy-unx/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/Divy-unx/LeetCode/tree/master/0075-sort-colors) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Divy-unx/LeetCode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Divy-unx/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Divy-unx/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Divy-unx/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Divy-unx/LeetCode/tree/master/0011-container-with-most-water) |
 | [0942-di-string-match](https://github.com/Divy-unx/LeetCode/tree/master/0942-di-string-match) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Divy-unx/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/Divy-unx/LeetCode/tree/master/1927-sum-game) |
