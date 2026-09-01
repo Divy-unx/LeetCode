@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Divy-unx/LeetCode/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/Divy-unx/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Divy-unx/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0905-sort-array-by-parity](https://github.com/Divy-unx/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0930-binary-subarrays-with-sum](https://github.com/Divy-unx/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0942-di-string-match](https://github.com/Divy-unx/LeetCode/tree/master/0942-di-string-match) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Divy-unx/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/Divy-unx/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/Divy-unx/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Divy-unx/LeetCode/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/Divy-unx/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0942-di-string-match](https://github.com/Divy-unx/LeetCode/tree/master/0942-di-string-match) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Divy-unx/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Divy-unx/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Divy-unx/LeetCode/tree/master/0389-find-the-difference) |
 | [0881-boats-to-save-people](https://github.com/Divy-unx/LeetCode/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/Divy-unx/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/Divy-unx/LeetCode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
