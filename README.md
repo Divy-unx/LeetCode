@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Divy-unx/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Divy-unx/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Divy-unx/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1991-find-the-middle-index-in-array](https://github.com/Divy-unx/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Divy-unx/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2923-find-champion-i](https://github.com/Divy-unx/LeetCode/tree/master/2923-find-champion-i) |
 | [3731-find-missing-elements](https://github.com/Divy-unx/LeetCode/tree/master/3731-find-missing-elements) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Divy-unx/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Divy-unx/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Divy-unx/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1991-find-the-middle-index-in-array](https://github.com/Divy-unx/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 ## Sorting
 |  |
 | ------- |
