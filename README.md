@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Divy-unx/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Divy-unx/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Divy-unx/LeetCode/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Divy-unx/LeetCode/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/Divy-unx/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Divy-unx/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Divy-unx/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Divy-unx/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Divy-unx/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Divy-unx/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Divy-unx/LeetCode/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Divy-unx/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Divy-unx/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Monotonic Stack
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Divy-unx/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Divy-unx/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Divy-unx/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Divy-unx/LeetCode/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Divy-unx/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Math
 |  |
