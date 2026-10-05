@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Divy-unx/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/Divy-unx/LeetCode/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Divy-unx/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2390-removing-stars-from-a-string](https://github.com/Divy-unx/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Divy-unx/LeetCode/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Divy-unx/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Divy-unx/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
+| [2390-removing-stars-from-a-string](https://github.com/Divy-unx/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Divy-unx/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1927-sum-game](https://github.com/Divy-unx/LeetCode/tree/master/1927-sum-game) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Divy-unx/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
+| [2390-removing-stars-from-a-string](https://github.com/Divy-unx/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Divy-unx/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Divy-unx/LeetCode/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 ## Sliding Window
