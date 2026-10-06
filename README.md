@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Divy-unx/LeetCode/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Divy-unx/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/Divy-unx/LeetCode/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/Divy-unx/LeetCode/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/Divy-unx/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Divy-unx/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0556-next-greater-element-iii](https://github.com/Divy-unx/LeetCode/tree/master/0556-next-greater-element-iii) |
@@ -370,4 +371,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Divy-unx/LeetCode/tree/master/2444-count-subarrays-with-fixed-bounds) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/Divy-unx/LeetCode/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
