@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Divy-unx/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0930-binary-subarrays-with-sum](https://github.com/Divy-unx/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0942-di-string-match](https://github.com/Divy-unx/LeetCode/tree/master/0942-di-string-match) |
+| [0946-validate-stack-sequences](https://github.com/Divy-unx/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Divy-unx/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Divy-unx/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/Divy-unx/LeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Divy-unx/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0946-validate-stack-sequences](https://github.com/Divy-unx/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1260-shift-2d-grid](https://github.com/Divy-unx/LeetCode/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Divy-unx/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/Divy-unx/LeetCode/tree/master/2390-removing-stars-from-a-string) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Divy-unx/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Divy-unx/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Divy-unx/LeetCode/tree/master/0739-daily-temperatures) |
+| [0946-validate-stack-sequences](https://github.com/Divy-unx/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Divy-unx/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Divy-unx/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Divy-unx/LeetCode/tree/master/2390-removing-stars-from-a-string) |
