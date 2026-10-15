@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Divy-unx/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Divy-unx/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Divy-unx/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/Divy-unx/LeetCode/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Divy-unx/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Divy-unx/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Divy-unx/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Divy-unx/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0556-next-greater-element-iii](https://github.com/Divy-unx/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Divy-unx/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/Divy-unx/LeetCode/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Divy-unx/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1927-sum-game](https://github.com/Divy-unx/LeetCode/tree/master/1927-sum-game) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Divy-unx/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -393,4 +395,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/Divy-unx/LeetCode/tree/master/0223-rectangle-area) |
+| [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/Divy-unx/LeetCode/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 <!---LeetCode Topics End-->
