@@ -22,12 +22,15 @@ class Solution {
         }
 
         for(int i = 0; i < stack.size(); i++){
-            if(!sb.isEmpty() && sb.charAt(0) == '0'){
-                sb.deleteCharAt(0);
-            }
-
             sb.append(stack.elementAt(i));
         }
+
+        while(!sb.isEmpty() && sb.charAt(0) == '0'){
+                sb.deleteCharAt(0);
+                if(sb.isEmpty()){
+                    return "0";
+                }
+            }
 
         return sb.toString();
     }
