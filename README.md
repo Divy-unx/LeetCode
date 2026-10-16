@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Divy-unx/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Divy-unx/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Divy-unx/LeetCode/tree/master/0739-daily-temperatures) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Divy-unx/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/Divy-unx/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Divy-unx/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Divy-unx/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Divy-unx/LeetCode/tree/master/0443-string-compression) |
 | [0556-next-greater-element-iii](https://github.com/Divy-unx/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0709-to-lower-case](https://github.com/Divy-unx/LeetCode/tree/master/0709-to-lower-case) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Divy-unx/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/Divy-unx/LeetCode/tree/master/0942-di-string-match) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Divy-unx/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Divy-unx/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Divy-unx/LeetCode/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/Divy-unx/LeetCode/tree/master/0402-remove-k-digits) |
 | [0881-boats-to-save-people](https://github.com/Divy-unx/LeetCode/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Divy-unx/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/Divy-unx/LeetCode/tree/master/0942-di-string-match) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Divy-unx/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/Divy-unx/LeetCode/tree/master/1927-sum-game) |
@@ -396,4 +399,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0223-rectangle-area](https://github.com/Divy-unx/LeetCode/tree/master/0223-rectangle-area) |
 | [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/Divy-unx/LeetCode/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Divy-unx/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
