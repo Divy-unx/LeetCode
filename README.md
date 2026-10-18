@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Divy-unx/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Divy-unx/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0556-next-greater-element-iii](https://github.com/Divy-unx/LeetCode/tree/master/0556-next-greater-element-iii) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Divy-unx/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Divy-unx/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/Divy-unx/LeetCode/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Divy-unx/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Divy-unx/LeetCode/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/Divy-unx/LeetCode/tree/master/0389-find-the-difference) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Divy-unx/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Design
 |  |
 | ------- |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Divy-unx/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Divy-unx/LeetCode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Divy-unx/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Divy-unx/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Queue
 |  |
 | ------- |
