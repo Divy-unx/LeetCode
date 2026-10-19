@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Divy-unx/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Divy-unx/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/Divy-unx/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Divy-unx/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1991-find-the-middle-index-in-array](https://github.com/Divy-unx/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Divy-unx/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Divy-unx/LeetCode/tree/master/2444-count-subarrays-with-fixed-bounds) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/Divy-unx/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1260-shift-2d-grid](https://github.com/Divy-unx/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Divy-unx/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Divy-unx/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Divy-unx/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/Divy-unx/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Hash Table
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Divy-unx/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/Divy-unx/LeetCode/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Divy-unx/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Divy-unx/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1927-sum-game](https://github.com/Divy-unx/LeetCode/tree/master/1927-sum-game) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Divy-unx/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Divy-unx/LeetCode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
@@ -330,11 +333,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Divy-unx/LeetCode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Divy-unx/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Divy-unx/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Divy-unx/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Divy-unx/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Divy-unx/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Divy-unx/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Divy-unx/LeetCode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Linked List
 |  |
