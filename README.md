@@ -421,4 +421,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Divy-unx/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Divy-unx/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Divy-unx/LeetCode/tree/master/0386-lexicographical-numbers) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Divy-unx/LeetCode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
