@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Divy-unx/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Divy-unx/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Divy-unx/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Divy-unx/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Divy-unx/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Divy-unx/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Divy-unx/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Divy-unx/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Divy-unx/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Divy-unx/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Divy-unx/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1927-sum-game](https://github.com/Divy-unx/LeetCode/tree/master/1927-sum-game) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Divy-unx/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Divy-unx/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Divy-unx/LeetCode/tree/master/0389-find-the-difference) |
 | [0881-boats-to-save-people](https://github.com/Divy-unx/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Divy-unx/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Divy-unx/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Divy-unx/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Divy-unx/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3731-find-missing-elements](https://github.com/Divy-unx/LeetCode/tree/master/3731-find-missing-elements) |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/Divy-unx/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Divy-unx/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
