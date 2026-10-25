@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Divy-unx/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Divy-unx/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Divy-unx/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3794-reverse-string-prefix](https://github.com/Divy-unx/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## String
 |  |
 | ------- |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/Divy-unx/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Divy-unx/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Divy-unx/LeetCode/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
+| [3794-reverse-string-prefix](https://github.com/Divy-unx/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## Sliding Window
 |  |
 | ------- |
