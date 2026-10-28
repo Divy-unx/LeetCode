@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Divy-unx/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Divy-unx/LeetCode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Divy-unx/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2706-buy-two-chocolates](https://github.com/Divy-unx/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [2923-find-champion-i](https://github.com/Divy-unx/LeetCode/tree/master/2923-find-champion-i) |
 | [2942-find-words-containing-character](https://github.com/Divy-unx/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3731-find-missing-elements](https://github.com/Divy-unx/LeetCode/tree/master/3731-find-missing-elements) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/Divy-unx/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Divy-unx/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Divy-unx/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2706-buy-two-chocolates](https://github.com/Divy-unx/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [3731-find-missing-elements](https://github.com/Divy-unx/LeetCode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Divy-unx/LeetCode/tree/master/1927-sum-game) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Divy-unx/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Divy-unx/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
+| [2706-buy-two-chocolates](https://github.com/Divy-unx/LeetCode/tree/master/2706-buy-two-chocolates) |
 ## Recursion
 |  |
 | ------- |
