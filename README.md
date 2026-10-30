@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Divy-unx/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Divy-unx/LeetCode/tree/master/0046-permutations) |
 | [0059-spiral-matrix-ii](https://github.com/Divy-unx/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Divy-unx/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Divy-unx/LeetCode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Divy-unx/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/Divy-unx/LeetCode/tree/master/0136-single-number) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Divy-unx/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Divy-unx/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1260-shift-2d-grid](https://github.com/Divy-unx/LeetCode/tree/master/1260-shift-2d-grid) |
 | [2923-find-champion-i](https://github.com/Divy-unx/LeetCode/tree/master/2923-find-champion-i) |
 ## Simulation
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Divy-unx/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Divy-unx/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Divy-unx/LeetCode/tree/master/0012-integer-to-roman) |
+| [0073-set-matrix-zeroes](https://github.com/Divy-unx/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Divy-unx/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Divy-unx/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Divy-unx/LeetCode/tree/master/0142-linked-list-cycle-ii) |
