@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/Divy-unx/LeetCode/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/Divy-unx/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Divy-unx/LeetCode/tree/master/0227-basic-calculator-ii) |
+| [0279-perfect-squares](https://github.com/Divy-unx/LeetCode/tree/master/0279-perfect-squares) |
 | [0556-next-greater-element-iii](https://github.com/Divy-unx/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Divy-unx/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Divy-unx/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Divy-unx/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Divy-unx/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/Divy-unx/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0279-perfect-squares](https://github.com/Divy-unx/LeetCode/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/Divy-unx/LeetCode/tree/master/0392-is-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Divy-unx/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Manacher
@@ -451,4 +453,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Divy-unx/LeetCode/tree/master/0386-lexicographical-numbers) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Divy-unx/LeetCode/tree/master/0279-perfect-squares) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Divy-unx/LeetCode/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Divy-unx/LeetCode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
